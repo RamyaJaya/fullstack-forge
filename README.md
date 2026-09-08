@@ -18,17 +18,16 @@ Every application within this forge bridges enterprise-grade backend stability w
 
 ## 🚀 Active Projects
 
-### 1. TaskOrchestrator 📋
-*A dynamic project management board featuring automated background timers and task tracking.*
-*   **Backend Features:** Multi-user authentication, PostgreSQL database mapping, and background cron jobs for deadline alerts.
-*   **Frontend Features:** Drag-and-drop task boards, dynamic project workspaces, and real-time status updates.
+### 1. Baby Charting App 👶📊
+*A comprehensive digital tracker for parents and caregivers to log, monitor, and visualize a baby's daily growth and wellness routines.*
+*   **Core Tracking Capabilities:**
+    *   🍼 **Feeds:** Logs feeding types (Breast, Bottle, or Solids), quantities, durations, and precise timestamps.
+    *   🧷 **Diaper Changes:** Tracks timing and diaper details (Wet, Dirty, or Both) to monitor hydration and digestive patterns.
+    *   💤 **Naps:** Features a start/stop timer to record sleep durations, tracking cumulative daily sleep hours.
+*   **Backend Features:** Secure multi-user login (for parents/nannies), relational database storage for historical timeline events, and aggregated analytics endpoints.
+*   **Frontend Features:** Quick-log dashboard optimized for sleep-deprived parents on mobile browsers, interactive daily timelines, and visual trends/charts.
 *   **Status:** 🟡 *In Development*
 
-### 2. PulseFin 📈 *(Planned)*
-*A high-frequency personal finance and market tracking dashboard.*
-*   **Backend Features:** External API aggregation, data caching, and optimized JSON data streams.
-*   **Frontend Features:** Interactive charts (Recharts/Chart.js), responsive financial ledgers, and dark-mode optimization.
-*   **Status:** ⚪ *Planned*
 
 ---
 
